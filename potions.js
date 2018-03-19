@@ -21,16 +21,6 @@ module.exports = [
         id: 0,
         invQtd: 0
     },
-    }
-    item: 6550,
-        name: "Minor Replenishment Potable",
-        cd: 10,
-        hp: true,
-        use_at: 50,
-        inCd: false,
-        id: 0,
-        invQtd: 0
-    },
     {
         item: 116,
         name: "Health Potion",
@@ -58,6 +48,16 @@ module.exports = [
         name: "Prime Replenishment Potable",
         cd: 10,
         hp: false,
+        use_at: 50,
+        inCd: false,
+        id: 0,
+        invQtd: 0
+    },
+    {
+        item: 6560,
+        name: "Prime Replenishment Potable",
+        cd: 10,
+        hp: true,
         use_at: 50,
         inCd: false,
         id: 0,
