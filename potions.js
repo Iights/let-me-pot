@@ -55,7 +55,7 @@ module.exports = [
     },
     {
         item: 6560,
-        name: "Prime Replenishment Potable",
+        name: "Minor Replenishment Potable",
         cd: 10,
         hp: true,
         use_at: 50,
